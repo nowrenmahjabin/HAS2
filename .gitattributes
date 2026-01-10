@@ -1,0 +1,6 @@
+# Ignore data files from language statistics
+*.json linguist-vendored
+*.csv linguist-vendored
+
+# Ignore editor / temp files
+tempCodeRunnerFile.* linguist-vendored
